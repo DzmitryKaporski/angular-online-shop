@@ -1,0 +1,36 @@
+header {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+
+h1 {
+  margin-top: 16px;
+}
+
+.example-spacer {
+  flex: 1 1 auto;
+}
+
+.toolbar {
+  display: flex;
+  align-items: center;
+  position: sticky;
+
+  &.button {
+    margin-left: 5px;
+
+    &:first-child {
+      margin-left: 0;
+    }
+  }
+}
+
+.no-select {
+  cursor: pointer;
+  user-select: none;
+}
+
+.nav-home {
+  margin-right: 5px;
+}

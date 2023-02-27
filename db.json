@@ -1,0 +1,68 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "HP Gaming",
+      "price": "1500",
+      "image": "./assets/images/hp-0.png",
+      "configure": {
+        "chip": "Intel 5",
+        "ssd": "500",
+        "memory": "1000",
+        "display": "Full HD"
+      }
+    },
+    {
+      "id": 2,
+      "title": "HP",
+      "price": "1100",
+      "image": "./assets/images/hp.png",
+      "configure": {
+        "chip": "Intel 7",
+        "ssd": "500",
+        "memory": "1000",
+        "display": "Amoled"
+      }
+    },
+    {
+      "id": 3,
+      "title": "HP Pavilion",
+      "price": "1200",
+      "image": "./assets/images/hp-1.png",
+      "configure": {
+        "chip": "Intel 3",
+        "ssd": "500",
+        "memory": "1000",
+        "display": "HD"
+      }
+    }
+  ],
+  "basket": [
+    {
+      "id": 1,
+      "title": "HP Gaming",
+      "price": "1500",
+      "image": "./assets/images/hp-0.png",
+      "configure": {
+        "chip": "Intel 5",
+        "ssd": "500",
+        "memory": "1000",
+        "display": "Full HD"
+      },
+      "quantity": 1
+    },
+    {
+      "id": 2,
+      "title": "HP",
+      "price": "1100",
+      "image": "./assets/images/hp.png",
+      "configure": {
+        "chip": "Intel 7",
+        "ssd": "500",
+        "memory": "1000",
+        "display": "Amoled"
+      },
+      "quantity": 1
+    }
+  ]
+}

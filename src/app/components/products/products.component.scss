@@ -1,0 +1,27 @@
+.example-card {
+  margin: 20px;
+  max-width: 350px;
+  background-color: white;
+}
+
+.mat-toolbar {
+  color: purple;
+  background-color: white;
+}
+
+.mat-toolbar-row {
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+.toolbar-button {
+  margin-top: -35px;
+  box-shadow: 0 5px 5px rgba(0, 0, 0, 0.47);
+  transition: 0.3s;
+  cursor: pointer;
+
+  &:hover {
+    font-weight: bold;
+    box-shadow: 0 0 0 rgba(0, 0, 0, 0.47);
+  }
+}
