@@ -1,6 +1,6 @@
 ##Deploy: [online shop](https://angular-online-shop-dimax.surge.sh/)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.1. and
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.0. and
 json-server https://www.npmjs.com/
 
 ## Development server
