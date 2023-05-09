@@ -1,6 +1,4 @@
-# AngularOnlineShop
-
-[![link](https://ltdfoto.ru/images/2023/02/27/Screenshot-2023-02-27-183417.jpg)](https://angular-online-shop-dimax.surge.sh/)
+##Deploy: [online shop](https://angular-online-shop-dimax.surge.sh/)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.1. and
 json-server https://www.npmjs.com/
