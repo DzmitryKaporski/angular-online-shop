@@ -1,6 +1,5 @@
 {
-  "products": [
-    {
+  "products": [{
       "id": 1,
       "title": "HP Gaming",
       "price": "1500",
@@ -37,8 +36,7 @@
       }
     }
   ],
-  "basket": [
-    {
+  "basket": [{
       "id": 1,
       "title": "HP Gaming",
       "price": "1500",
